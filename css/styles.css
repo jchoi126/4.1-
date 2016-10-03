@@ -1,0 +1,19 @@
+p {
+  display: inline-block; }
+
+.list {
+  display: none; }
+
+#first numer {
+  display: inline-block;
+  float: left; }
+
+#files {
+  display: inline-block;
+  float: left; }
+
+#rightAmount {
+  display: inline-block;
+  float: right; }
+
+/*# sourceMappingURL=styles.css.map */

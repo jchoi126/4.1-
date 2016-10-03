@@ -8,7 +8,7 @@
 // });
 
 $( ".subject" ).click(function() {
-  $(this).children('li').toggle ("slow");
+  $(this).children('li').slideToggle ("slow");
 });
 
 $(document).ready(function() {

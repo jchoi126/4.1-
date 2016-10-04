@@ -14,10 +14,10 @@ $( ".subject" ).click(function() {
 $(document).ready(function() {
    $('.subject').hover(
       function () {
-         $(this).css({"background-color":"grey"});
+         $(this).css({"background-color":"#8CA135"});
       },
       function () {
-         $(this).css({"background-color":"white"});
+         $(this).css({"background-color":"grey"});
       }
    );
 });

@@ -1,12 +1,26 @@
 p {
-  display: inline-block; }
+  display: ; }
 
 .list {
-  display: none; }
+  display: none;
+  background-color: white;
 
-#first numer {
+}
+
+.subject{
+  background-color: grey;
+  padding: 0;
+}
+
+.grey{
+  background-color: grey;
+  padding: 0;
+}
+
+#firstNumber {
   display: inline-block;
-  float: left; }
+  /*float: left;*/
+}
 
 #files {
   display: inline-block;
@@ -14,6 +28,7 @@ p {
 
 #rightAmount {
   display: inline-block;
-  float: right; }
+  float: right;
+}
 
 /*# sourceMappingURL=styles.css.map */

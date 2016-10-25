@@ -19,7 +19,7 @@ $(document).ready(function() {
       function () {
          $(this).css({"background-color":"grey"});
       }
-   );
+   ); 
 });
 
 

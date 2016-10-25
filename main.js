@@ -8,7 +8,7 @@
 // });
 
 $('.subject').hide();
-
+ 
 $( ".toggle" ).click(function(event) {
   event.preventDefault()
   if($(this).children('ul').is(':visible')){

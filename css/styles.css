@@ -1,10 +1,16 @@
 p {
-  display: ; }
+  display: ; }*/
+
+ul{
+  padding: 10px;
+  background-color: grey;
+
+} 
 
 .list {
-  display: none;
+  list-style-type: none;
   background-color: white;
-
+  padding: 10px;
 }
 
 .subject{
@@ -17,18 +23,20 @@ p {
   padding: 0;
 }
 
-#firstNumber {
+.firstNumber {
   display: inline-block;
   /*float: left;*/
 }
 
-#files {
+.files {
   display: inline-block;
-  float: left; }
-
-#rightAmount {
-  display: inline-block;
-  float: right;
+  /*float: left; */
 }
 
-/*# sourceMappingURL=styles.css.map */
+.rightAmount {
+  display: inline-block;
+  /*float: right;*/
+}
+
+
+/*# sourceMappingURL=styles.css.map
